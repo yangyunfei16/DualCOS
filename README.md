@@ -1,7 +1,6 @@
 # DualCOS: Query-Efficient Data-Free Model Stealing with Dual Clone Networks and Optimal Samples
 
 ## Introduction
-This repository contains the PyTorch implementation of "DualCOS: Query-Efficient Data-Free Model Stealing with Dual Clone Networks and Optimal Samples".
 This is the source code for the paper [DualCOS: Query-Efficient Data-Free Model Stealing with Dual Clone Networks and Optimal Samples](https://ieeexplore.ieee.org/abstract/document/10688153) published to ICME 2024.
 
 ## Foundation of Codebase
